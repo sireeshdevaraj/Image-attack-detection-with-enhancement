@@ -1,6 +1,7 @@
 # WORKING WITH NBIS
 Download the NBIS  latest release software from the following [link](https://www.nist.gov/itl/iad/image-group/products-and-services/image-group-open-source-server-nigos#Releases) on your UBUNTU
 
+It is recomended to have a ubuntu version 20.04 or older. You might experience errors while installing NBIS on ubuntu 22.04 (The latest one).
 
 Open terminal in the the downloaded directory
 
@@ -28,6 +29,7 @@ you can check the NBIS_installation_folder, you can find all the required files 
 + Copy and place the data set directory inside our `NBIS_INSTALLED_FOLDER`
 + cd into our Dataset `/Desktop/nbis_tool/DB1_B` and run the following shell script `for file in *.jpg; do ../bin/mindtct /home/kuuhaku/Desktop/nbis_tool/DB1_B/"$file" /home/kuuhaku/Desktop/nbis_tool/output/"$file"; done`
 + this will extract all the data from the given set of finger print data sets
++ 
 
 # NOTE:
 + This Readme and Project is still in the initial phase and the initial readme is not completed yet
