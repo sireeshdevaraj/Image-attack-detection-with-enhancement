@@ -1,7 +1,7 @@
 # WORKING WITH NBIS
 Download the NBIS  latest release software from the following [link](https://www.nist.gov/itl/iad/image-group/products-and-services/image-group-open-source-server-nigos#Releases) on your UBUNTU
 
-It is recomended to have a ubuntu version 20.04 or older. You might experience errors while installing NBIS on ubuntu 22.04 (The latest one).
+It is recommended to have a ubuntu version 20.04 or older. You might experience errors while installing NBIS on ubuntu 22.04 (The latest one).
 
 Open terminal in the the downloaded directory
 
