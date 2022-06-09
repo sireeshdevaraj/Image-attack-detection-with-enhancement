@@ -1,0 +1,19 @@
+Steps to run the histogrameq.py file
+first download the histogrameq.py file 
+there are some minimal changes to do in the histogrameq.py file
+as the input image on which histogram equalization is to be done is given by th user when the program prompts him
+before running the program create a folder named output in your home diretory
+all the processed images of fingerprints and histograms before and after histogram equalization are stored in this folder 
+now open the code and you need to change all the plt.savefig() commands which are visible in code with the path of output directory created by you
+if the path visible to you is like /home/shaik/output/img_before_eq then /home/{user}/output will be the path of your output folder and /img_before_eq will be your file name i.e to be saved
+however you may change these names as per your convention
+and if you're running this .py file in ubuntu make sure you have installed numpy,opencv,matplotlib in your ubuntu
+you may refer to online sources for help installing these things
+now once all the setup and changes are done 
+you can run this .py file in ubuntu using python histogrameq.py command in terminal in the directory where file is present
+as you run this the code will ask you whether the data of previously processed fingerprints is moved from the output directory or not
+it is better to move the previously processed fingerprints data to another location before processng for new fingerprints as the code rewrites the same image files so we have a chance of losing previously saved data if not moved from that directory
+if yes the code will ask you for the input you should provide the exact location path where your fingerprnt image is present including the type of the image like .jpg, .jpeg
+or else your program execution exits with an error
+if the previously processed data is not moved from the output folder you may enter no the program terminates itself and you may move the data to another location and you can run the file again
+finally the programs shows the success message after processing fingerprints and terminates.
