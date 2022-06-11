@@ -74,7 +74,9 @@ you can check the NBIS_installation_folder, you can find all the required files 
 + cv.ADAPTIVE_THRESH_MEAN_C: The threshold value is the mean of the neighbourhood area minus the constant C.
 + cv.ADAPTIVE_THRESH_GAUSSIAN_C: The threshold value is a gaussian-weighted sum of the neighbourhood values minus the constant C.
 
-
+#### Sample Morphological operations performed on a random fingerprint
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/sample.png)
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/Figure_1.png)
 
 
 # NOTE:
