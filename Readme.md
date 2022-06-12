@@ -128,7 +128,7 @@ you can check the NBIS_installation_folder, you can find all the required files 
 
 
 # NOTE:
-+ This Readme and Project ARE still in the initial phase and the readme is not completed yet
++ This Readme and Project are still in the initial phase and the readme is not completed yet
 
 
 
