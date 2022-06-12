@@ -80,6 +80,9 @@ you can check the NBIS_installation_folder, you can find all the required files 
 
 ## DISCRETE COSINE TRANSFORMATION
 + Discrete Cosine Transform is used in lossy image compression i.e., it's large amount of information is stored in very low frequency component of a signal and rest other frequency having very small data which can be stored by using very less number of bits
+### ORIGINAL IMAGE:
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/sample.jpg)
+### COMPRESSED IMAGE:
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/dct_capy_compressed.png)
 ## FAST FOURIER TRANSFORMATION
 + The Fast Fourier Transform (FFT) is commonly used to transform an image between the spatial and frequency domain.
