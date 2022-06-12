@@ -1,5 +1,5 @@
 # WORKING WITH NBIS
-Download the NBIS  latest release software from the following [link](https://www.nist.gov/itl/iad/image-group/products-and-services/image-group-open-source-server-nigos#Releases) on your UBUNTU
+Download the NBIS  latest release software from the following [LINK](https://www.nist.gov/itl/iad/image-group/products-and-services/image-group-open-source-server-nigos#Releases) on your UBUNTU
 
 It is recommended to have a ubuntu version 20.04 or older. You might experience errors while installing NBIS on ubuntu 22.04 (The latest one).
 
@@ -19,7 +19,7 @@ Open terminal in the the downloaded directory
 
 you can check the NBIS_installation_folder, you can find all the required files inside the directory
 
-+ Download the Sample data sets to [test](http://bias.csr.unibo.it/fvc2004/databases.asp)
++ Download the Sample data sets to [TEST](http://bias.csr.unibo.it/fvc2004/databases.asp)
 + If the Data Sets are in `*.tif` ,you may need to convert these to `*.jpeg`
 + Just a Quick info on **tif** vs **jpeg**
  + TIF means TAG IMAGE FILE FORMAT
