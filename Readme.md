@@ -108,7 +108,8 @@ you can check the NBIS_installation_folder, you can find all the required files 
 
 
 ## LOGARITHMIC TRANSFORMATION:
-+ During log transformation, the dark pixels in an image are expanded as compare to the higher pixel values. The higher pixel values are kind of compressed in log transformation.
++ During log transformation, the dark pixels in an image are expanded as compare to the higher pixel values. 
++ The higher pixel values are kind of compressed in log transformation.
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/log_before_after.png)
 
 ## BLURRING:
