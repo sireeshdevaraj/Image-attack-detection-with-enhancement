@@ -140,7 +140,9 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ## Sharpness and edge detection:
 + Masks and filters can be used to detect edges and enhance the sharpness of image by increasing the edges
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/sharpened_unsharpened.png)
+
 # NOTE:
++ All the processed images are saved using pyplot in python
 + This Readme and Project are still in the initial phase and the readme is not completed yet
 
 
