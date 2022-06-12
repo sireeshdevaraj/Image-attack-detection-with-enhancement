@@ -93,8 +93,39 @@ you can check the NBIS_installation_folder, you can find all the required files 
 + Low frequencies represent gradual variations in the image; they contain the most information because they determine the overall shape or pattern in the image. High frequencies correspond to abrupt variations in the image; they provide more detail in the image, but they contain more noise.
 +  the lowest frequencies are often shown by a large peak in the center of the data.
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/fft_capy.png)
+
+## Histogram equalisation technique
++ In histogram equalisation we distribute the intensities of the pixels such that the image looks brighter if the image is too darker to visualize and the image can be adjusted and can be made darker if it is too brighter to visualize. This can be performed in python by using OpenCV.
+
+### IMAGE TRANSFORMATION:
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/img_before_after_eq.jpg)
+
+### HISTOGRAM BEFORE:
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/hist_before_eq.jpg)
+
+### HISTOGRAM AFTER:
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/hist_after_eq.jpg)
+
+
+## LOGARITHMIC TRANSFORMATION:
++ During log transformation, the dark pixels in an image are expanded as compare to the higher pixel values. The higher pixel values are kind of compressed in log transformation.
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/log_before_after.png)
+
+## BLURRING:
++ Blurring is simply blurring the clear image by reducing its edges
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/blurring.png)
+
+## NOISE REDUCTION:
++ Image noise is random variation of brightness or color information in the images captured. It is degradation in image signal caused by external sources.Images containing multiplicative noise have the characteristic that the brighter the area the noisier it.
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/Noise%20reduction.png)
+
+## POWER LAW TRANSFORMATION:
++ This type of transformation is used for enhancing images for different type of display devices. The gamma of different display devices is different.
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/powerlaw.png)
+
+
 # NOTE:
-+ This Readme and Project is still in the initial phase and the initial readme is not completed yet
++ This Readme and Project ARE still in the initial phase and the readme is not completed yet
 
 
 
