@@ -129,7 +129,7 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ## Image binarization : 
 + Binary images are formed based on the given threshold value
 + The pixel values greater than or equal to the given threshold value are set to 1 i.e. white and rest will be set to 0 i.e. dark
-![]
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/Binary.png)
 
 # NOTE:
 + This Readme and Project are still in the initial phase and the readme is not completed yet
