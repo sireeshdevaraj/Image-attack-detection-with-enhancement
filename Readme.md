@@ -122,7 +122,8 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/Noise%20reduction.png)
 
 ## POWER LAW TRANSFORMATION:
-+ This type of transformation is used for enhancing images for different type of display devices. The gamma of different display devices is different.
++ This type of transformation is used for enhancing images for different type of display devices.
++ The gamma of different display devices is different.
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/powerlaw.png)
 
 
