@@ -135,6 +135,10 @@ you can check the NBIS_installation_folder, you can find all the required files 
 + Negative of an image can be formed by subtracting each pixel value of input image from L-1
 + L indicates the number of levels in the input image
 + For a 8 bit image the number of pixel values are 256
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/c_negative.png)
+
+## Sharpness and edge detection:
++ Masks and filters can be used to detect edges and enhance the sharpness of image by increasing the edges
 ![]()
 # NOTE:
 + This Readme and Project are still in the initial phase and the readme is not completed yet
