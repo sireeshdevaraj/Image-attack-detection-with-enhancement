@@ -29,6 +29,8 @@ you can check the NBIS_installation_folder, you can find all the required files 
 + Copy and place the data set directory inside our `NBIS_INSTALLED_FOLDER`
 + cd into our Dataset `/Desktop/nbis_tool/DB1_B` and run the following shell script `for file in *.jpg; do ../bin/mindtct /home/kuuhaku/Desktop/nbis_tool/DB1_B/"$file" /home/kuuhaku/Desktop/nbis_tool/output/"$file"; done`
 + this will extract all the data from the given set of finger print data sets.
++ You have the Data now and can try to get the match score of two fingerprint data `../bin/bozorth3 -m1 101_2.jpg.xyt 102_6.jpg.xyt`
++ Gives out the score betweent the given two fingerprints!!
 
 # TRANSFORMATIONS AND ENHANCEMENTS
 
