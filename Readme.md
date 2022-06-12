@@ -116,7 +116,8 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/blurring.png)
 
 ## NOISE REDUCTION:
-+ Image noise is random variation of brightness or color information in the images captured. It is degradation in image signal caused by external sources.Images containing multiplicative noise have the characteristic that the brighter the area the noisier it.
++ Image noise is random variation of brightness or color information in the images captured. It is degradation in image signal caused by external sources.
++ Images containing multiplicative noise have the characteristic that the brighter the area the noisier it.
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/Noise%20reduction.png)
 
 ## POWER LAW TRANSFORMATION:
