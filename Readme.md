@@ -161,6 +161,11 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ->Encourage Feature reuse
 + Growth rate in DenseNet121 is defined as thenumber of feature maps that a layer can produce
 
+##DenseNet121 Architecture
+
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/densenet121.png)
+
+
 
 # NOTE:
 + All the processed images are saved using pyplot in python
