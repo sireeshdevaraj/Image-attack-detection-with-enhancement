@@ -165,6 +165,9 @@ you can check the NBIS_installation_folder, you can find all the required files 
 
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/densenet121.png)
 
+##DenseNet121 Readme
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/Densenet121.md)
+
 ## DenseNet121 Implementation using pytorch 
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/Densenet121.ipynb)
 
