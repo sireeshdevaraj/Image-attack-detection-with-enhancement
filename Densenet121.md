@@ -13,10 +13,6 @@
 ## Accuracy and loss for each epoch:
 ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/carbon.png)
 
-## Some of the output images predcted by the model:
-![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/denseimg1.png)
-![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/denseimg2.png)
-![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/denseimg3.png)
-![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/denseimg4.png)
-![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/denseimg5.png)
-![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/dense%20img%206.png)
+## Some of the output images predcted by the model, view from the implementation file:
+![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/Densenet121.ipynb)
+
