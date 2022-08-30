@@ -175,6 +175,8 @@ you can check the NBIS_installation_folder, you can find all the required files 
 + All the processed images are saved using pyplot in python
 + This Readme and Project are still in the initial phase and the readme is not completed yet
 
+## Tabnet:
++ TabNet is to effectively apply deep neural networks on tabular data which still consists of a large portion of users and processed data across various applications such as healthcare, banking, retail, finance, marketing, etc.
 
-
-  
+## Tabnet Architrcture
+  ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/fabnet.png)
