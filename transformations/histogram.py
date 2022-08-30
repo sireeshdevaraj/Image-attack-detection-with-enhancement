@@ -7,6 +7,6 @@ for image in os.listdir('./not_transformed'):
     img = cv.imread(f'./not_transformed/{image}',0)
     equ = cv.equalizeHist(img)
     plt.imshow(img, cmap='gray')
-    plt.xticks([]),plt.yticks([])
+    plt.axis('off')
     plt.savefig(f'./test_results_of_histogram/{image}')
 	

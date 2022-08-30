@@ -8,4 +8,5 @@ for image in os.listdir('./not_transformed'):
     thres = 200
     thres_value, binary = cv.threshold(img,thres,255,cv.THRESH_BINARY)
     plt.imshow(binary)
+    plt.axis('off')
     plt.savefig(f'./test_results_of_binary/{image}')
