@@ -178,5 +178,5 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ## Tabnet:
 + TabNet is to effectively apply deep neural networks on tabular data which still consists of a large portion of users and processed data across various applications such as healthcare, banking, retail, finance, marketing, etc.
 
-## Tabnet Architrcture
+## Tabnet Architecture
   ![](https://github.com/sireeshdevaraj/Image-attack-detection-with-enhancement/blob/master/assets/fabnet.png)
