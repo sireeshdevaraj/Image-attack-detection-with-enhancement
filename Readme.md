@@ -190,3 +190,14 @@ you can check the NBIS_installation_folder, you can find all the required files 
 |     HiScan            |     87.9               |     90.4                |     0.9     |                        |                        |             |                        |                        |             |          |
 |     GreenBit          |     88.8               |     89.8                |     0.11    |     86.9               |     84.8               |     0.15    |     86.8               |     87.2               |     0.13    |          |
 |     Orcathus          |                        |                         |             |     91.4               |     85.9               |     0.14    |     91.3               |     94.4               |     0.56    |          |
+
+
+## Cross Dataset Training and accuracy table
+|     Train Scanner        |     Test Scanner      |     Training   score    |     Testing score    |     ACE%    |
+|--------------------------|-----------------------|-------------------------|----------------------|-------------|
+|     Digital   Persona    |     GreenBit          |     91.04               |     0.62             |     0.38    |
+|     DigitalPersona       |     Orcathus          |     90                  |     66               |     0.34    |
+|     GreenBit             |     DigitalPersona    |     84.7                |     82               |     0.18    |
+|     GreenBit             |     Orcathus          |     91.1                |     87.2             |     0.13    |
+|     Orcathus             |     DigitalPersona    |     91.09               |     0.55             |     0.45    |
+|     Orcathus             |     GreenBit          |     91.6                |     0.64             |     0.36    |
