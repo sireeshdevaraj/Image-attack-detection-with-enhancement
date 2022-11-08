@@ -195,9 +195,9 @@ you can check the NBIS_installation_folder, you can find all the required files 
 ## Cross Dataset Training and accuracy table
 |     Train Scanner        |     Test Scanner      |     Training   score    |     Testing score    |     ACE%    |
 |--------------------------|-----------------------|-------------------------|----------------------|-------------|
-|     Digital   Persona    |     GreenBit          |     91.04               |     0.62             |     0.38    |
-|     DigitalPersona       |     Orcathus          |     90                  |     66               |     0.34    |
-|     GreenBit             |     DigitalPersona    |     84.7                |     82               |     0.18    |
-|     GreenBit             |     Orcathus          |     91.1                |     87.2             |     0.13    |
-|     Orcathus             |     DigitalPersona    |     91.09               |     0.55             |     0.45    |
-|     Orcathus             |     GreenBit          |     91.6                |     0.64             |     0.36    |
+|     Digital   Persona    |     GreenBit          |     91.04               |     0.62             |     38    |
+|     DigitalPersona       |     Orcathus          |     90                  |     66               |     34    |
+|     GreenBit             |     DigitalPersona    |     84.7                |     82               |     18    |
+|     GreenBit             |     Orcathus          |     91.1                |     87.2             |     13    |
+|     Orcathus             |     DigitalPersona    |     91.09               |     0.55             |     45    |
+|     Orcathus             |     GreenBit          |     91.6                |     0.64             |     36    |
