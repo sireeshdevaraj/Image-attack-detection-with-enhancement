@@ -185,11 +185,11 @@ you can check the NBIS_installation_folder, you can find all the required files 
   |     Scanners          |     LivDet2015         |                         |             |     LivDet2017         |                        |             |     LivDet2019         |                        |             |          |
 |-----------------------|------------------------|-------------------------|-------------|------------------------|------------------------|-------------|------------------------|------------------------|-------------|----------|
 |                       |     Train     Score    |     Valid      Score    |     ACE%    |     Train     Score    |     Valid     Score    |     ACE%    |     Train     Score    |     Valid     Score    |     ACE%    |          |
-|     DigitalPersona    |     87.8               |     87.9                |     0.12    |     91.1               |     87.2               |     0.13    |     86.7               |     62.4               |     0.38    |          |
-|     CrossMatch        |     88.9               |     90.5                |     0.95    |                        |                        |             |                        |                        |             |          |
-|     HiScan            |     87.9               |     90.4                |     0.9     |                        |                        |             |                        |                        |             |          |
-|     GreenBit          |     88.8               |     89.8                |     0.11    |     86.9               |     84.8               |     0.15    |     86.8               |     87.2               |     0.13    |          |
-|     Orcathus          |                        |                         |             |     91.4               |     85.9               |     0.14    |     91.3               |     94.4               |     0.56    |          |
+|     DigitalPersona    |     87.8               |     87.9                |     12    |     91.1               |     87.2               |     13    |     86.7               |     62.4               |     38    |          |
+|     CrossMatch        |     88.9               |     90.5                |     9.5    |                        |                        |             |                        |                        |             |          |
+|     HiScan            |     87.9               |     90.4                |     9     |                        |                        |             |                        |                        |             |          |
+|     GreenBit          |     88.8               |     89.8                |     11    |     86.9               |     84.8               |     15    |     86.8               |     87.2               |     13    |          |
+|     Orcathus          |                        |                         |             |     91.4               |     85.9               |     14    |     91.3               |     94.4               |     56    |          |
 
 
 ## Cross Dataset Training and accuracy table
