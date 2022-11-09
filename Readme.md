@@ -201,3 +201,14 @@ you can check the NBIS_installation_folder, you can find all the required files 
 |     GreenBit             |     Orcathus          |     91.1                |     87.2             |     13    |
 |     Orcathus             |     DigitalPersona    |     91.09               |     0.55             |     45    |
 |     Orcathus             |     GreenBit          |     91.6                |     0.64             |     36    |
+
+## Accuracy after rotating the images of test dataset by 60 degrees
+
+\begin{table}[]
+\begin{tabular}{lllll}
+Scanner        & Rotated By & \begin{tabular}[c]{@{}l@{}}Training \\    score\end{tabular} & \begin{tabular}[c]{@{}l@{}}validation \\     score\end{tabular} & Ace\% \\
+DigitalPersona & 60         & 89.5                                                         & 79.6                                                            & 22.4  \\
+GreenBit       & 60         & 84.3                                                         & 82                                                              & 18    \\
+Orcathus       & 60         & 90.1                                                         & 84.8                                                            & 15.2 
+\end{tabular}
+\end{table}
