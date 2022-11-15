@@ -202,6 +202,6 @@ you can check the NBIS_installation_folder, you can find all the required files 
 |     Orcathus             |     DigitalPersona    |     91.09               |     0.55             |     45    |
 |     Orcathus             |     GreenBit          |     91.6                |     0.64             |     36    |
 
-## Accuracy after rotating the images of test dataset by 60 degrees
+## Accuracy after rotating the images of test dataset by 60 degrees.
 
 
