@@ -95,6 +95,14 @@ you can check the NBIS_installation_folder, you can find all the required files 
 |     Orcathus             |     DigitalPersona    |     91.09               |     0.55             |     45    |
 |     Orcathus             |     GreenBit          |     91.6                |     0.64             |     36    |
 
-## Accuracy after rotating the images of test dataset by 60 degrees
 
-
+##accuracy of tabnet classifier
+\begin{table}[]
+\begin{tabular}{llll}
+Scanner         & optimizer & \begin{tabular}[c]{@{}l@{}}no of features \\ selected\end{tabular} & final test score \\
+Cross match     & adam      & 28                                                                 & 97.4             \\
+Digital Persona & adam      & 9                                                                  & 81.8             \\
+Hi scan         & adam      & 28                                                                 & 89               \\
+Training        & adam      & 12                                                                 & 98              
+\end{tabular}
+\end{table}
