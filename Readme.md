@@ -103,3 +103,13 @@ you can check the NBIS_installation_folder, you can find all the required files 
 | Digital Persona | adam      | 9                       | 81.8             | 18.2 |
 | Hi scan         | adam      | 28                      | 89               | 11   |
 | Training        | adam      | 12                      | 98               | 2    |
+
+## Accuracy of TabNet classifier for LivDet2015 and LivDet2017 features extracted using olsen method(11 features extracted totally)
+|       Scanner      | Selected Feat | thresh | train score | valid score | final test score | ACE% |
+|:------------------:|---------------|--------|-------------|-------------|------------------|------|
+| digitalpersona2017 | 8             | 0.2    | 86.9        | 86.4        | 83.5             | 16.5 |
+| GreenBit2017       | 4             | 0.3    | 79.79       | 79.77       | 85.1             | 14.9 |
+| Orcathus2017       | 5             | 0.4    | 89.8        | 91.1        | 86.9             | 13.1 |
+| DigitalPersona2019 | 7             | 0.2    | 89.7        | 90.6        | 89.7             | 10.3 |
+| GreenBit2019       | 7             | 0.2    | 88.8        | 90.7        | 82.7             | 17.3 |
+| Orcathus2019       | 6             | 0.2    | 89.9        | 90.43       | 94.4             | 5.6  |
