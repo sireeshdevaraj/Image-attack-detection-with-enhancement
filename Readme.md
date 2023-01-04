@@ -96,6 +96,16 @@ you can check the NBIS_installation_folder, you can find all the required files 
 |     Orcathus             |     GreenBit          |     91.6                |     0.64             |     36    |
               
 
+
+## Accuracy of tabnet classifier for LivDet2015 Data set
+|     Scanner    | Total Features | Selected Features | Threshold | Train Score | Valid score | Final Test score | Ace% |
+|:--------------:|:--------------:|:-----------------:|:---------:|:-----------:|:-----------:|:----------------:|:----:|
+|     Hi scan    | 28             | 28                | -         | 84.4        | 83.01       | 89.2             | 11.8 |
+|   Cross match  | 28             | 28                | -         | 99.47       | 98.48       | 97.4             | 2.6  |
+| DigitalPersona | 28             | 9                 | 0.4       | 86.88       | 86.86       | 81.4             | 18.6 |
+|    Training    | 28             | 12                | 0.2       | 98.58       | 96.89       | 92               | 8    |
+
+
 ## Accuracy of tabnet classifier
 | Train Scanner   | Optimizer | Selected no of features | Final Test score | ACE  |
 |-----------------|-----------|-------------------------|------------------|------|
