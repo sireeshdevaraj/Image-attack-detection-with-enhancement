@@ -6,7 +6,7 @@ It is recommended to have a ubuntu version 20.04 or older. You might experience 
 Open terminal in the the downloaded directory
 
 + define the setup folder where you want to install the software
-+  ` ./setup.sh /home/kuuhaku/Desktop/NBIS_TOOL  --STDLIBS --64`
++  ` ./setup.sh /home/kuuhaku/Desktop/NBIS_TOOL --without-X11 --STDLIBS --64`
 + make sure you have the GCC installed before running the setup
 + `sudo apt install gcc-9` 
 + `sudo make config`
@@ -14,8 +14,8 @@ Open terminal in the the downloaded directory
   + first update the sudo apt with sudo apt-get update
   + `sudo apt-get install -y make`
   + `sudo apt install build-essential`
-+ `make it`
-+ `make install LIBNBIS=yes`
++ `sudo make it`
++ `sudo make install LIBNBIS=yes`
 
 you can check the NBIS_installation_folder, you can find all the required files inside the directory
 
